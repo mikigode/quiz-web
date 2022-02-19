@@ -3,31 +3,31 @@ const quizData = [
         question:"Maputo is the capital city of which country?",
         a:"Mozambique",
         b:"Madagsca",
-        c:"botswan",
+        c:"Botswan",
+        d:"none",
+        correct:"a",
+    },
+    {
+        question:"Around 70% of this country’s land is covered by rainforest ",
+        a:"Malawi",
+        b:"Republic of the Congo",
+        c:"Kenya",
         d:"none",
         correct:"b",
     },
     {
-        question:"Around 70% of this country’s land is covered by rainforest ",
-        a:"malawi",
-        b:"Republic of the Congo",
-        c:"kenya",
-        d:"none",
-        correct:"d",
-    },
-    {
         question:"Sadza is the national dish of which country?",
-        a:"zimbabwe",
-        b:"morocco",
-        c:"malawi",
+        a:"Zimbabwe",
+        b:"Morocco",
+        c:"Malawi",
         d:"Ethiopia",
-        correct:"b"
+        correct:"a"
     },
     {
         question:"HTML stands for?",
-        a:"human time managemet language",
-        b:"hypertext markup language",
-        c:"hypertext mashup language",
+        a:"Human time managemet language",
+        b:"Hypertext markup language",
+        c:"Hypertext mashup language",
         d:"none",
         correct:"b",
     },
@@ -45,7 +45,7 @@ const quizData = [
         b:"kenya",
         c:"chad",
         d:"sudan",
-        correct:"b"
+        correct:"a"
     },
     {
         question:"Which country has the most pyramids?",
@@ -53,6 +53,7 @@ const quizData = [
         b:"sudan",
         c:"Ehiopia",
         d:"none",
+        correct:"b",
     },
 
 ];
